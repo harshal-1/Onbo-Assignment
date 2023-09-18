@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "65082aa2b043052bbc3fecf2"
+  },
+  "climate": "humid",
+  "area_code": 101,
+  "temperature": 20,
+  "humidity": 99,
+  "chances_of_rain": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65082ae2b043052bbc3fecf4"
+  },
+  "climate": "hot",
+  "area_code": 121,
+  "temperature": 33,
+  "humidity": 42,
+  "chances_of_rain": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65082dd35c52b944ec7c0164"
+  },
+  "climate": "hot",
+  "area_code": 101,
+  "temperature": 50,
+  "humidity": 60,
+  "chances_of_rain": 30,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650836af1ad7380b308c60ff"
+  },
+  "climate": "hot",
+  "area_code": 101,
+  "temperature": 11,
+  "humidity": 22,
+  "chances_of_rain": 15,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6508380430a2824b50989aa4"
+  },
+  "climate": "humid",
+  "area_code": 101,
+  "temperature": 5,
+  "humidity": 62,
+  "chances_of_rain": 35,
+  "__v": 0
+}]
